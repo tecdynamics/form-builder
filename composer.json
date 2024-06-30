@@ -1,5 +1,5 @@
 {
-    "name": "Tec/form-builder",
+    "name": "tecdynamics/form-builder",
     "description": "Laravel form builder - symfony like",
     "extra": {
         "laravel": {
